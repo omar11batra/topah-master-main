@@ -8,10 +8,10 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/yourSite0/qurani-master/blob/main/screenshots/1.jpg" alt="Image 2"></td>
-    <td><img src="https://github.com/yourSite0/qurani-master/blob/main/screenshots/2.jpg" alt="Image 2"></td>
-    <td><img src="https://github.com/yourSite0/qurani-master/blob/main/screenshots/3.jpg" alt="Image 2"></td>
-    <td><img src="https://github.com/yourSite0/qurani-master/blob/main/screenshots/4.jpg" alt="Image 2"></td>
+    <td><img src="https://github.com/omar11batra/topah-master-main/blob/main/screenshots/1.jpg" alt="Image 2"></td>
+    <td><img src="https://github.com/omar11batra/topah-master-main/blob/main/screenshots/2.jpg" alt="Image 2"></td>
+    <td><img src="https://github.com/omar11batra/topah-master-main/blob/main/screenshots/3.jpg" alt="Image 2"></td>
+    <td><img src="https://github.com/omar11batra/topah-master-main/blob/main/screenshots/4.jpg" alt="Image 2"></td>
   </tr>
 </table>
 
